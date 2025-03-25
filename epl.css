@@ -1,0 +1,53 @@
+body{
+  background: linear-gradient(to right,rgb(170, 192, 231), #406dc2, rgb(231, 64, 64));
+width: 100%;}
+
+.brand{
+  border: 2px solid rgb(56, 3, 56);
+  height: 65px;
+  margin-top: 0px;
+  margin-left: -50px;
+  background-color:rgb(56, 3, 56);
+}
+
+.worker{
+  border-right: 2px solid red;
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color:rgb(56, 3, 56);
+}
+a:hover{
+  color:red;
+}
+a:active{
+  color:green;
+}
+.table{
+margin-left: 40px;
+  
+}
+ 
+li{
+  display: inline-block;
+  margin-right: 30px;
+ 
+  
+  
+  
+}
+.class{
+  border: 2px solid red;
+  font-size: 23px;
+  background-color: aliceblue;
+  color: rgb(56, 3, 56);
+  
+}
+
+.back{
+  height: 40px;
+}
+
+
+

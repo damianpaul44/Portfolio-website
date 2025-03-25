@@ -1,0 +1,192 @@
+
+        body{
+          cursor: pointer;
+          height: 250vh;
+          width: 100%;
+
+        
+          
+          .sign {
+            background-color: rgba(3, 0, 0, 0.904);
+            height: 45px;
+            margin-top: -5px;
+            margin-left: -9px;
+            width: 81.6rem;
+          }
+
+          .in{
+            color:white;
+            padding-left: 40px;
+            padding-top: 20px;
+            margin-top: -57px;
+          }
+
+        .list{
+          list-style:none;
+          background-color: rgb(204, 8, 8);
+          height: 80px;
+          width: 80.3rem;
+          margin-top: 0px;
+          margin-left: -16px;
+          color:white;
+          text-transform: uppercase;
+          padding-left: 29px;
+          word-spacing:4px ;
+            
+        }
+
+          
+
+        html{
+          scroll-behavior: smooth;
+        }
+
+        .want{
+          position:sticky;
+          top:0;
+
+        }
+
+        li{
+          display: inline-block;
+          gap: 90px;
+          
+        }
+
+        a{
+          text-decoration:none ;
+          color:white;
+          font-size: 18px;
+        
+        }
+            
+
+        a:hover{
+        color:yellow;
+        transition-duration:1s;
+        transition-timing-function: ease;
+        transition-delay: 0s;
+        font-size: 17px;
+        border-bottom: 3px solid white;
+        
+        }
+          
+        .img{
+          padding-left: 934px;
+          margin-top:-15px;
+          padding-top: 20px;
+        }
+        .logo{
+          padding-top:10px
+        }
+
+
+.coach{
+margin-top: 0px;
+margin-left: 50px;
+font-size: 20px;
+
+}
+.coach2{
+  border-radius: 20px;
+  margin-top: 20px;
+}
+.coach2:hover{
+  width: 470px;
+
+}
+
+.review{
+color:white;
+margin-top: -50px;
+font-size: 26px;
+margin-right: 800px;
+transition-duration: 1s;
+transition-timing-function: ease;
+}
+
+
+.review:hover{
+  color:yellow;
+  font-size: 30px;
+}
+
+.review:active{
+  color:red;
+
+}
+.review:visited{
+  color:yellow;
+}
+
+.coach3{
+  margin-top:-53px;
+  margin-left: -130px;
+  position:inherit;
+  border-radius: 20px;
+  
+}
+.bruno{
+  margin-left: -90px;
+  margin-top: -3%;
+  position:inherit;
+}
+
+.bruno2{
+  margin-left: 600px;
+  margin-top: -1054px;
+ border-radius: 20px; 
+}
+.bruno3{
+  margin-left: 910px;
+  margin-top: -400px;
+ border-radius: 20px; 
+}
+.bruno2:hover{
+  width: 395px;
+  height: 295px;
+}
+.free-kick{
+  margin-left: 610px;
+  margin-top: -80px;
+  font-size: 21px;
+  font-weight: 500;
+  font-weight: bold;
+  color: white;
+  transition-duration: 2s;
+  transition-timing-function: ease;
+}
+
+.free-kick:hover{
+  color:yellow;
+font-size: 23px;
+}
+.free-kick:active{
+  color:red;
+}
+.ugarte{
+  margin-top: 0px;
+  
+  
+}
+
+.under{
+  margin-left: 930px;
+  margin-top: -290px;
+  border-radius: 20px;
+}
+.under2{
+  border-radius: 20px;
+}
+.under3{
+  margin-top: -90px;
+  margin-left: 60px;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+.end{
+  margin-left: 70px;
+  margin-top: 70px;
+}
+        }

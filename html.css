@@ -1,0 +1,53 @@
+body{
+
+  background: linear-gradient(to right,red, black);
+
+}
+
+  li{
+    list-style: none;
+    margin-top: 20px;
+   
+   
+  }
+
+.hero{
+  border: 3px solid white;
+  
+  height: 60px;
+  display: flex;
+  gap:40px;
+  font-size: 21px;
+  background-color: white;
+  weight:bold;
+  
+}
+
+
+
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color:red;
+}
+a:active{
+  color:green;
+}
+
+h1{
+  color:white;
+  
+}
+
+.back
+{
+  font-size: 20px;   
+}
+.back:hover{
+  color:red;
+}
+.back:active{
+  color:green;
+}
