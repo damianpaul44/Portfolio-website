@@ -15,7 +15,7 @@
             @media (max-width:480px){
            padding:0px;
            font-size:20px;
-                    display:inline-block;
+                    
             }
             @media(max-width:992px){
                     padding:0px;
@@ -146,6 +146,10 @@ transition-timing-function: ease;
   margin-left: 600px;
   margin-top: -1054px;
  border-radius: 20px; 
+        @media(max-width:480px){
+                padding-top:0px;
+        }
+@media (max-width:992px;)
 }
 .bruno3{
   margin-left: 910px;
