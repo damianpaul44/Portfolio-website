@@ -195,7 +195,7 @@ font-size: 23px;
 }
                 
 .men{
-display:flex;
+
 @media (max-width:480px){
         padding:0px;
 }
