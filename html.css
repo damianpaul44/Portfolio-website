@@ -1,12 +1,22 @@
 body{
 
+  
   background: linear-gradient(to right,red, black);
 
-}
+  @media(max-width:992px)
+  {
+    width: 470px;
+    height: 80px;
+  }
+
 
   li{
     list-style: none;
     margin-top: 20px;
+    margin-left: -15px;
+    font-weight: bold;
+    
+    
    
    
   }
@@ -19,7 +29,15 @@ body{
   gap:40px;
   font-size: 21px;
   background-color: white;
-  weight:bold;
+  
+
+
+  @media(max-width:992px)
+  {
+    width: 500px;
+    height: 80px;
+    gap:25px;
+  }
   
 }
 
@@ -50,4 +68,68 @@ h1{
 }
 .back:active{
   color:green;
+}
+
+}
+
+.keep{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+
+.dif1{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+.dif2{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+.dif3{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+
+.mid1{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+
+.mid2{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+
+.str1{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+
+.str2{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
 }
