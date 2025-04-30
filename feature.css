@@ -1,17 +1,29 @@
-body{
   
+
 li{
   list-style: none;
   margin-top: 20px;
+  
+  
 }
+
+.move{
+margin-left: -10px;
+}
+
 .move2{
   display: flex;
-  gap: 50px;
+  gap: 10px;
   font-size: 20px;
-  border:2px solid red;
   background-color: rgb(204, 8, 8);
   height: 60px;
   font-weight: 600;
+
+  @media (max-width:992px) {
+    width: 550px;
+    font-size: 20px;
+    gap: 10px;
+  }
   
   
 }
@@ -30,13 +42,17 @@ a:active{
 
 .move3{
   margin-left: 60px;
-  display: flex;
+  
   
 }
 .work1{
   margin-top: 90px;
   margin-left: 80px;
-  display: flex;
+  
+  
+    
+  
+  
 }
 
 
@@ -47,4 +63,7 @@ a:active{
 
 
 
-}
+
+
+
+
