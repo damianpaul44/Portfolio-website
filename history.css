@@ -5,7 +5,8 @@ body{
 li{
   list-style: none;
   margin-top: 20px;
- 
+
+
  
 }
 
@@ -18,6 +19,12 @@ gap:40px;
 font-size: 21px;
 background-color:  rgb(204, 8, 8);
 weight:bold;
+
+@media (max-width:992px) {
+  width: 500px;
+  height: 70px;
+  gap:15px;
+}
 
 }
 
@@ -44,4 +51,33 @@ a{
 }
 .back:active{
   color:green;
+}
+
+.title1{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+.title2{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+.title3{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
+}
+.title4{
+  @media (max-width:992px) {
+    width: 547px;
+    height: 280px;
+    
+  }
 }
