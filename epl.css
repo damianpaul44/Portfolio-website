@@ -1,6 +1,14 @@
 body{
   background: linear-gradient(to right,rgb(170, 192, 231), #406dc2, rgb(231, 64, 64));
-width: 100%;}
+
+
+@media (max-width:992px) {
+  width: 550px;
+  height: 300px;
+  
+}
+}
+
 
 .brand{
   border: 2px solid rgb(56, 3, 56);
